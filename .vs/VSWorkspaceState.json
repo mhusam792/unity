@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Assets",
+    "\\Assets\\Scripts",
+    "\\Assets\\Scripts\\UI"
   ],
-  "SelectedNode": "\\Farme.sln",
+  "SelectedNode": "\\Assets\\Scripts\\UI\\UIManager.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\unity_game\\mohamed_hussam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BF1A7BD-B069-06A7-2398-B07E887FDC49}|Assembly-CSharp.csproj|f:\\unity_game\\mohamed_hussam\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF1A7BD-B069-06A7-2398-B07E887FDC49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\unity_game\\mohamed_hussam\\Assets\\Scripts\\UI\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BF1A7BD-B069-06A7-2398-B07E887FDC49}|Assembly-CSharp.csproj|f:\\unity_game\\mohamed_hussam\\assets\\scripts\\time\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF1A7BD-B069-06A7-2398-B07E887FDC49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\time\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\unity_game\\mohamed_hussam\\Assets\\Scripts\\Time\\TimeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Time\\TimeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Time\\TimeManager.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAswAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T02:25:37.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T02:25:37.443Z"
             }
           ]
         }
